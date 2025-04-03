@@ -1,4 +1,4 @@
-rpackage pac_1;
+package pac_1;
 
 import org.testng.annotations.Test;
 
