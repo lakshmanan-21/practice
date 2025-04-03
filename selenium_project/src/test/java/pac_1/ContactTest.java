@@ -1,4 +1,4 @@
-package pac_1;
+rpackage pac_1;
 
 import org.testng.annotations.Test;
 
@@ -22,6 +22,11 @@ public class ContactTest
 	public void modifycontacttest()
 	{
 		System.out.println("execute modifycontacttest");
+	}
+	@Test
+	public void deletecontacttest()
+	{
+		System.out.println("execute deletecontacttest");
 	}
 
 }
